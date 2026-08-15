@@ -1,0 +1,31 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+debug.log
+
+# Local environment / secrets
+.env
+.env.local
+
+# Dependency directories (only relevant if build tooling is added later)
+node_modules/
+vendor/
+
+# Build output (only relevant if a bundler/minifier is added later)
+dist/
+build/
+
+# Backup / temp files some editors create
+*~
+*.bak
+*.tmp
